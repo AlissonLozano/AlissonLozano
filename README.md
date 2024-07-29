@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://github.com/AlissonLozano/AlissonLozano/blob/main/house.png" height="150"  width="500"/>
+</p>
 
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  I'm Alisson, Fullstack developer.
+</h1>
 
-<img src="https://e7.pngegg.com/pngimages/415/453/png-clipart-dr-gregory-house-robert-chase-lisa-cuddy-eric-foreman-allison-cameron-dr-gregory-house-television-public-relations.png" width="30"/>
-
-
-<p>Welcome to my page! </br> I'm Alisson, Fullstack developer </p>
 <h3>Skills</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -18,17 +21,4 @@
   <img alt="git" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 </p>
-<!--
-**AlissonLozano/AlissonLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
